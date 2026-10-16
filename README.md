@@ -1,6 +1,15 @@
 # Desafio---Modulo-1
 
---------Hospedagem--------
+DW Airbnb: demanda sazonal no Rio
+
+Como a demanda varia ao longo do ano, medida pelas avaliações, para planejar campanhas e ajustes de tarifa.
+
+Resultados
+Alta temporada em janeiro e fevereiro
+Baixa de junho a agosto
+Copacabana e Ipanema lideram em todas as estações
+Centro, Camorim e Copacabana: candidatos a teste de preço
+Modelo de dados
 
 Mapeamendo de dados Brutos.
 
@@ -9,11 +18,4 @@ Mapeamendo de dados Brutos.
 
   Arquivos fontes brutos (listings.csv, neighbourhoods.csv, reviews.csv).
 
-Modelo Conceitual:
-
-<img width="1017" height="784" alt="image" src="https://github.com/user-attachments/assets/3333bdd0-9a0a-44b5-b958-5e3a4f5d13c8" />    
-  
-
-Modelo Lógico:  
-  
-<img width="971" height="770" alt="image" src="https://github.com/user-attachments/assets/8e0864b7-bf57-41e8-bfc5-bedd493d8c1c" />
+Modelo Conceitual e Lógico:
