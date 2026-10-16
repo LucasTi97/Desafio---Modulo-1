@@ -4,12 +4,15 @@ DW Airbnb: demanda sazonal no Rio
 
 Como a demanda varia ao longo do ano, medida pelas avaliações, para planejar campanhas e ajustes de tarifa.
 
-Resultados
-Alta temporada em janeiro e fevereiro
-Baixa de junho a agosto
-Copacabana e Ipanema lideram em todas as estações
-Centro, Camorim e Copacabana: candidatos a teste de preço
-Modelo de dados
+<h1>Resultados</h1>
+
+<ul>
+  <li>Alta temporada em janeiro e fevereiro</li>
+  <li>Baixa de junho a agosto</li>
+  <li>Copacabana e Ipanema lideram em todas as estações</li>
+  <li>Centro, Camorim e Copacabana: candidatos a teste de preço</li>
+</ul>
+
 
 Mapeamendo de dados Brutos.
 
@@ -19,3 +22,8 @@ Mapeamendo de dados Brutos.
   Arquivos fontes brutos (listings.csv, neighbourhoods.csv, reviews.csv).
 
 Modelo Conceitual e Lógico:
+
+<img width="3552" height="1632" alt="modelo_conceitual" src="https://github.com/user-attachments/assets/4631fc48-9352-404e-9485-7f26395405e7" />
+
+<img width="3552" height="1692" alt="modelo_logico" src="https://github.com/user-attachments/assets/dd217b2b-139a-4ddd-9a79-fed14a68bec3" />
+
